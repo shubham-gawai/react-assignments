@@ -1,0 +1,16 @@
+.number{
+       width:60%;
+       margin: auto;
+       border: 10px solid white;
+       gap: 2px;
+       display: flex;
+       flex-wrap: wrap;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{ 
+    padding: 30px;
+    text-align: center;
+    font-size: 25px; 
+    color: whitesmoke;
+}
